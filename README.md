@@ -1,9 +1,13 @@
-# klauss3895
-Github profile readme
-- 👋 Hi, I’m Klaus
--Full Stack Developer 
--Languages and Tools: 
--Html || Css || JavaScript || Git || Bootstrap || React.js || Redux || Node.js || Express || PostgreSQL || Sequelize
--My proyects
+# Klaus Amapane
 
-- 📫 How to reach me ...
+> :wave: Hi, I’m Klaus
+> 
+> :mortar_board: Full Stack Developer 
+>
+> :books: Languages and Tools: 
+>
+>Html || Css || JavaScript || Git || Bootstrap || React.js || Redux || Node.js || Express || PostgreSQL || Sequelize
+>
+>My proyects
+
+>- 📫 How to reach me ...
