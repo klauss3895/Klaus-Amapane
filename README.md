@@ -2,7 +2,7 @@
 
 > :wave: Hi, I’m Klaus
 > 
-> :mortar_board: Full Stack Developer 
+> :mortar_board: full stack web developer 
 >
 > :books: Languages and Tools: 
 >
